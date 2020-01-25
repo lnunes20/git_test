@@ -1,1 +1,3 @@
 esse eh um arquivo de texto simples como exemplo
+
+segunda edicao desse arquivo para checar o git
